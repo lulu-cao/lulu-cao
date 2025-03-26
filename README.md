@@ -21,9 +21,9 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [废都](https://www.goodreads.com/review/show/6390343304?utm_medium=api&utm_source=rss) by 贾平凹 (⭐️3.14)
-- [明朝那些事儿:洪武大帝](https://www.goodreads.com/review/show/6303212518?utm_medium=api&utm_source=rss) by 当年明月 (⭐️4.42)
-- [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/6004744150?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐️4.12)
+- [Indoor Edible Garden: Creative Ways to Grow Herbs, Fruits, and Vegetables in Your Home](https://www.goodreads.com/review/show/7435626504?utm_medium=api&utm_source=rss) by Zia Allaway (⭐️4.29)
+- [The New Plant Parent: Develop Your Green Thumb and Care for Your House-Plant Family](https://www.goodreads.com/review/show/7395959267?utm_medium=api&utm_source=rss) by Darryl Cheng (⭐️4.43)
+- [The Inspired Houseplant: Transform Your Home with Indoor Plants from Kokedama to Terrariums and Water Gardens to Edibles](https://www.goodreads.com/review/show/7396004093?utm_medium=api&utm_source=rss) by Jen Stearns (⭐️3.82)
 <!-- GOODREADS-LIST:END -->
 
 <!--STARTS_HERE_QUOTE_README-->
