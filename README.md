@@ -21,9 +21,9 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [The Inspired Houseplant: Transform Your Home with Indoor Plants from Kokedama to Terrariums and Water Gardens to Edibles](https://www.goodreads.com/review/show/7396004093?utm_medium=api&utm_source=rss) by Jen Stearns (⭐️3.82)
-- [Miniature Bonsai: The Complete Guide to Super-Mini Bonsai](https://www.goodreads.com/review/show/7435639765?utm_medium=api&utm_source=rss) by Terutoshi Iwai (⭐️3.9)
-- [Indoor Edible Garden: Creative Ways to Grow Herbs, Fruits, and Vegetables in Your Home](https://www.goodreads.com/review/show/7435626504?utm_medium=api&utm_source=rss) by Zia Allaway (⭐️4.29)
+- [The Inspired Houseplant: Transform Your Home with Indoor Plants from Kokedama to Terrariums and Water Gardens to Edibles](https://www.goodreads.com/review/show/7396004093?utm_medium=api&utm_source=rss) by Jen Stearns (⭐️)
+- [Miniature Bonsai: The Complete Guide to Super-Mini Bonsai](https://www.goodreads.com/review/show/7435639765?utm_medium=api&utm_source=rss) by Terutoshi Iwai (⭐️)
+- [Indoor Edible Garden: Creative Ways to Grow Herbs, Fruits, and Vegetables in Your Home](https://www.goodreads.com/review/show/7435626504?utm_medium=api&utm_source=rss) by Zia Allaway (⭐️)
 <!-- GOODREADS-LIST:END -->
 
 <!--STARTS_HERE_QUOTE_README-->
