@@ -1,12 +1,12 @@
 ### Hi, I'm Lulu 👋
 
-😄 I work as a Full Stack Developer at Dimensional Innovations where I implement web designs and develop CMS and API for various clients. My key clients include Kansas City International Airport, St. Louis Cardinals, Children's Healthcare of Atlanta, and the University of Nebraska.
+😄 I'm currently a software developer at [backstitch](https://www.linkedin.com/company/backstitch/about/), a SaaS company focused on enhancing HR communication with employees. Before that, I worked at [Dimensional Innovations](https://dimin.com/) where I implemented web designs and developed CMS and API for various clients. My key clients included Kansas City International Airport, St. Louis Cardinals, Children's Healthcare of Atlanta, and the University of Nebraska.
 
-🍀 I'm volunteering as TechTalks Program Director for Kansas City Women in Technology, connecting with local speakers and sponsors and organizing monthly Tech Talks. If you are interested in speaking or sponsoring, please contact me. I previously volunteered with them as Coding and Cocktails Curriculum Director, developing curricula on CSS, JavaScript, and GitHub Action.
+🍀 I volunteered as TechTalks Program Director for [Kansas City Women in Technology](https://www.eventbrite.com/o/kansas-city-women-in-technology-4568105457), connecting with local speakers and sponsors and organizing monthly Tech Talks. I also volunteered with them as Coding and Cocktails Curriculum Director, developing curricula on CSS, JavaScript, and GitHub Action.
 
-🌱 I volunteered for the Code for KC program with KC Digital Drive and completed a [TrashTracker](https://github.com/codeforkansascity/TrashTrackerWebApp) project to track community reports of illegal dumping.
+🌱 I volunteered for the Code for KC program with [KC Digital Drive](https://www.kcdigitaldrive.org/) and developed a [TrashTracker](https://github.com/codeforkansascity/TrashTrackerWebApp) project to track community reports of illegal dumping.
 
-⚡ Fun fact: I studied philosophy for three years and co-founded a startup for a social media platform - [Symposia](https://www.projectsymposia.com/).
+⚡ Fun fact: I studied philosophy for three years and co-founded a startup for a social media platform - Symposia.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulu-cao&layout=compact)](https://github.com/lulu-cao/github-readme-stats) -->
 ### My GitHub activities
