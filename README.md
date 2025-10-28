@@ -21,9 +21,9 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Aftermath: Violence and the Remaking of a Self](https://www.goodreads.com/review/show/8025915894?utm_medium=api&utm_source=rss) by Susan J. Brison (⭐️4.38)
 - [Do Nothing: How to Break Away from Overworking, Overdoing, and Underliving](https://www.goodreads.com/review/show/7636053654?utm_medium=api&utm_source=rss) by Celeste Headlee (⭐️3.83)
 - [The Inspired Houseplant: Transform Your Home with Indoor Plants from Kokedama to Terrariums and Water Gardens to Edibles](https://www.goodreads.com/review/show/7396004093?utm_medium=api&utm_source=rss) by Jen Stearns (⭐️3.84)
-- [Miniature Bonsai: The Complete Guide to Super-Mini Bonsai](https://www.goodreads.com/review/show/7435639765?utm_medium=api&utm_source=rss) by Terutoshi Iwai (⭐️3.94)
 <!-- GOODREADS-LIST:END -->
 
 <!--STARTS_HERE_QUOTE_README-->
