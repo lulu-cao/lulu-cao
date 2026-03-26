@@ -22,7 +22,7 @@
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [Blue and Yellow Don't Make Green: Or, How To Mix the Colour You Really Want-Every Time](https://www.goodreads.com/review/show/8294648375?utm_medium=api&utm_source=rss) by Michael Wilcox (⭐️4.11)
-- [Aftermath: Violence and the Remaking of a Self](https://www.goodreads.com/review/show/8025915894?utm_medium=api&utm_source=rss) by Susan J. Brison (⭐️4.38)
+- [Aftermath: Violence and the Remaking of a Self](https://www.goodreads.com/review/show/8025915894?utm_medium=api&utm_source=rss) by Susan J. Brison (⭐️4.37)
 - [The Inspired Houseplant: Transform Your Home with Indoor Plants from Kokedama to Terrariums and Water Gardens to Edibles](https://www.goodreads.com/review/show/7396004093?utm_medium=api&utm_source=rss) by Jen Stearns (⭐️3.85)
 <!-- GOODREADS-LIST:END -->
 
