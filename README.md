@@ -21,9 +21,9 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [穆斯林的葬礼](https://www.goodreads.com/review/show/8891692341?utm_medium=api&utm_source=rss) by 霍达 (⭐️3.96)
+- [第七天](https://www.goodreads.com/review/show/8891688973?utm_medium=api&utm_source=rss) by Yu Hua (⭐️4.16)
 - [Blue and Yellow Don't Make Green: Or, How To Mix the Colour You Really Want-Every Time](https://www.goodreads.com/review/show/8294648375?utm_medium=api&utm_source=rss) by Michael Wilcox (⭐️4.12)
-- [Aftermath: Violence and the Remaking of a Self](https://www.goodreads.com/review/show/8025915894?utm_medium=api&utm_source=rss) by Susan J. Brison (⭐️4.37)
-- [The Inspired Houseplant: Transform Your Home with Indoor Plants from Kokedama to Terrariums and Water Gardens to Edibles](https://www.goodreads.com/review/show/7396004093?utm_medium=api&utm_source=rss) by Jen Stearns (⭐️3.85)
 <!-- GOODREADS-LIST:END -->
 
 <!--STARTS_HERE_QUOTE_README-->
