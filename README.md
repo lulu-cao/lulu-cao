@@ -21,7 +21,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [穆斯林的葬礼](https://www.goodreads.com/review/show/8891692341?utm_medium=api&utm_source=rss) by 霍达 (⭐️3.96)
+- [穆斯林的葬礼](https://www.goodreads.com/review/show/8891692341?utm_medium=api&utm_source=rss) by 霍达 (⭐️3.97)
 - [第七天](https://www.goodreads.com/review/show/8891688973?utm_medium=api&utm_source=rss) by Yu Hua (⭐️4.16)
 - [Blue and Yellow Don't Make Green: Or, How To Mix the Colour You Really Want-Every Time](https://www.goodreads.com/review/show/8294648375?utm_medium=api&utm_source=rss) by Michael Wilcox (⭐️4.12)
 <!-- GOODREADS-LIST:END -->
